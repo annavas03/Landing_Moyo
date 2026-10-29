@@ -1,7 +1,7 @@
 
-# Moyo Landing Page
+# MyBike Landing Page
 
-A responsive landing page for the Moyo online store.
+A responsive landing page for the MyBike online store.
 
 ## Demo
 
